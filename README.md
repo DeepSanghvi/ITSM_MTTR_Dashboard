@@ -29,8 +29,8 @@ Built to demonstrate end-to-end ITSM observability skills: REST API integration,
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mttr-dashboard.git
-cd mttr-dashboard
+git clone https://github.com/DeepSanghvi/ITSM_MTTR_Dashboard
+cd MTTR_Dashboard
 pip install -r requirements.txt
 ```
 
