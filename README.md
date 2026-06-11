@@ -115,5 +115,5 @@ Default thresholds used for breach calculation (customise in `data/mock_generato
 
 ## 🧑‍💻 Author
 
-Built by [Deep Sanghvi](linkedin.com/in/sanghvideep/) — Application Support Engineer  
+Built by [Deep Sanghvi](https://www.linkedin.com/in/sanghvideep/) — Application Support Engineer  
 Demonstrating: ServiceNow API integration · ITSM metrics · Python · Streamlit · Pandas · Plotly
